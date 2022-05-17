@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esraa Abdellatif</h1>
 <h3 align="center">A passionate Mobile Application developer[Flutter] from Egypt</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+Profile;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esra2-abdelltif&label=Profile%20views&color=0e75b6&style=flat" alt="esra2-abdelltif" /> </p>
 
