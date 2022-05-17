@@ -7,14 +7,12 @@
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=esra2-abdelltif&label=Profile%20views&color=0e75b6&style=flat" alt="esra2-abdelltif" /> </p>
  </p>
 
-<br>
-
 
 <p align="left"> <a href="https://twitter.com/esraa_a99" target="blank"><img src="https://img.shields.io/twitter/follow/esraa_a99?logo=twitter&style=for-the-badge" alt="esraa_a99" /></a> </p>
 
-
+<br><br>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-<br><br><br>
+<br>
 
 - 🔭 I’m currently working on **my portfolio**
 
