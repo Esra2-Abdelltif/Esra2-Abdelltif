@@ -30,9 +30,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/esraa-abdellatif-728982195/](https://www.linkedin.com/in/esraa-abdellatif-728982195/)
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esra2-abdelltif" alt="esra2-abdelltif" /></a> </p>
-
+## 🔥 Streak Stats
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esra2-abdelltif&" alt="esra2-abdelltif" /></p>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
@@ -54,3 +53,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esra2-abdelltif&show_icons=true&locale=en" alt="esra2-abdelltif" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esra2-abdelltif&" alt="esra2-abdelltif" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esra2-abdelltif" alt="esra2-abdelltif" /></a> </p>
+
+
