@@ -19,8 +19,8 @@
 
 
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
- :sassy_man:  About me
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;*** :sassy_man:Talking about Personal Stuffs...***
+ :sassy_man:  Talking about Personal Stuffs...
 - 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **Flutter and Dart**
