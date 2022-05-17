@@ -37,7 +37,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
 <a href="https://twitter.com/esraa_a99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="esraa_a99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/esraa-abdellatif-728982195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esraa-abdellatif-728982195" height="30" width="40" /></a>
