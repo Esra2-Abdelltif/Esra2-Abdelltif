@@ -31,8 +31,9 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/esraa-abdellatif-728982195/](https://www.linkedin.com/in/esraa-abdellatif-728982195/)
 
 ## 🔥 Streak Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esra2-abdelltif&" alt="esra2-abdelltif" /></p>
-
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=esra2-abdelltif&" alt="esra2-abdelltif" /></p>
+<br>
+<br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
