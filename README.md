@@ -13,6 +13,8 @@
 <p align="left"> <a href="https://twitter.com/esraa_a99" target="blank"><img src="https://img.shields.io/twitter/follow/esraa_a99?logo=twitter&style=for-the-badge" alt="esraa_a99" /></a> </p>
 
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 - 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **Flutter and Dart**
