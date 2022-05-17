@@ -17,10 +17,8 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
+## 👀 My Competitive Programming Profiles
 
-
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;*** :sassy_man:Talking about Personal Stuffs...***
- :sassy_man:  Talking about Personal Stuffs...
 - 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **Flutter and Dart**
