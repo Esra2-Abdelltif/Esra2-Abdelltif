@@ -3,8 +3,11 @@
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+Profile" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=esra2-abdelltif&label=Profile%20views&color=0e75b6&style=flat" alt="esra2-abdelltif" /> </p>
+<br>
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=esra2-abdelltif&label=Profile%20views&color=0e75b6&style=flat" alt="esra2-abdelltif" /> </p>
+ </p>
 
+<br>
 
 
 <p align="left"> <a href="https://twitter.com/esraa_a99" target="blank"><img src="https://img.shields.io/twitter/follow/esraa_a99?logo=twitter&style=for-the-badge" alt="esraa_a99" /></a> </p>
