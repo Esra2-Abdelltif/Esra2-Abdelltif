@@ -60,10 +60,10 @@
 
 <p align="center"> &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=esra2-abdelltif&show_icons=true&locale=en" alt="esra2-abdelltif" /></p>
 
-
+<br>
 
 ## :trophy: Git profile Trophies
-
+<br>
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esra2-abdelltif" alt="esra2-abdelltif" /></a> </p>
 
