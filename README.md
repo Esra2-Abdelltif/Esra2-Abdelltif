@@ -65,6 +65,6 @@
 ## :trophy: Git profile Trophies
 <br>
 <p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esra2-abdelltif&theme=react-dark" alt="esra2-abdelltif" /></a> </p>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esra2-abdelltif&theme=algolia" alt="esra2-abdelltif" /></a> </p>
 
 
