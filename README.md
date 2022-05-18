@@ -56,7 +56,7 @@
   <br/>
 
 <p align="center">
- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=esra2-abdelltif&show_icons=true&locale=en&layout=compact" alt="esra2-abdelltif" /></p>
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=esra2-abdelltif&show_icons=true&locale=en&layout=compact" alt="esra2-abdelltif" />
 
 &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=esra2-abdelltif&show_icons=true&locale=en" alt="esra2-abdelltif" /></p>
 
