@@ -37,8 +37,6 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
- <a href="https://twitter.com/esraa_a99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="esraa_a99" height="30" width="40" /></a>
-
 <a href="https://twitter.com/esraa_a99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="esraa_a99" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/esraa-abdellatif-728982195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esraa-abdellatif-728982195" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/esraa-abd-ellatiif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="esraa-abd-ellatiif" height="30" width="40" /></a>
@@ -58,15 +56,15 @@
   <br/>
 
 <p align="center">
- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=esra2-abdelltif&show_icons=true&locale=en&layout=compact" alt="esra2-abdelltif" /></p>
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=esra2-abdelltif&show_icons=true&locale=en&layout=compact&theme=tokyonight_duo" alt="esra2-abdelltif" /></p>
 
-<p align="center"> &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=esra2-abdelltif&show_icons=true&locale=en" alt="esra2-abdelltif" /></p>
+<p align="center"> &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=esra2-abdelltif&show_icons=true&locale=en&theme=tokyonight_duo" alt="esra2-abdelltif" /></p>
 
 <br>
 
 ## :trophy: Git profile Trophies
 <br>
 <p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esra2-abdelltif" alt="esra2-abdelltif" /></a> </p>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esra2-abdelltif&theme=tokyonight_duo" alt="esra2-abdelltif" /></a> </p>
 
 
