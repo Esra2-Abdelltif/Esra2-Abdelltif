@@ -3,10 +3,10 @@
 <h3 align="center">A passionate Flutter Application developer from Egypt</h3>
 <br>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+Profile" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile" /> </p>
 <br>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Profile Views ...
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Profile Views 
  <br>
  <img src="https://komarev.com/ghpvc/?username=esra2-abdelltif&label=Profile%20views&color=0e75b6&style=flat" alt="esra2-abdelltif" /> </p>
  
