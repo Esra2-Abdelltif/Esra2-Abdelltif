@@ -56,15 +56,15 @@
   <br/>
 
 <p align="center">
- <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=esra2-abdelltif&show_icons=true&locale=en&layout=compact&theme=tokyonight_duo" alt="esra2-abdelltif" /></p>
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=esra2-abdelltif&show_icons=true&locale=en&layout=compact&theme=algolia" alt="esra2-abdelltif" /></p>
 
-<p align="center"> &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=esra2-abdelltif&show_icons=true&locale=en&theme=tokyonight_duo" alt="esra2-abdelltif" /></p>
+<p align="center"> &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=esra2-abdelltif&show_icons=true&locale=en&theme=algolia" alt="esra2-abdelltif" /></p>
 
 <br>
 
 ## :trophy: Git profile Trophies
 <br>
 <p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esra2-abdelltif&theme=tokyonight_duo" alt="esra2-abdelltif" /></a> </p>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esra2-abdelltif&theme=react-dark" alt="esra2-abdelltif" /></a> </p>
 
 
