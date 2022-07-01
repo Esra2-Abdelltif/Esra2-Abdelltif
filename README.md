@@ -43,6 +43,7 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/esraa-abdellatif-728982195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esraa-abdellatif-728982195" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://ar.m.wikipedia.org/wiki/%D9%85%D9%84%D9%81:Gmail_icon_%282020%29.svg" alt="esraa-abdellatif-728982195" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/esraa-abd-ellatiif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="esraa-abd-ellatiif" height="30" width="40" /></a>
 <a href="https://www.behance.net/esraaabd_el" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="esraaabd_el" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/esraa_abd_a99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="esraa_abd_a99" height="30" width="40" /></a>
