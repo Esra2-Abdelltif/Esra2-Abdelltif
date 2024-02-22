@@ -46,8 +46,8 @@
 <a href="https://stackoverflow.com/users/esraa-abd-ellatiif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="esraa-abd-ellatiif" height="30" width="40" /></a>
 <a href="https://www.behance.net/esraaabd_el" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="esraaabd_el" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/esraa_abd_a99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="esraa_abd_a99" height="30" width="40" /></a>
- <a href="https://twitter.com/esraa_a99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="esraa_a99" height="30" width="40" /></a>
-        <a href="https://fb.com/esraa.eahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="esraa.eahmad" height="30" width="40" /></a>
+
+      
 </p>
 <br>
 
